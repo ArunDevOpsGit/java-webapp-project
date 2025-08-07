@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: loksai-eta-container
-        image: loksaieta/sa-ai-webapp
+        image: loksaieta/skazwebapp
         ports:
         - containerPort: 8080
 ---
